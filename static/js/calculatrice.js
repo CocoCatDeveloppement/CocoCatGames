@@ -3,7 +3,6 @@ const boutons = document.querySelectorAll(".boutons button");
 
 let operation = "";
 
-
 boutons.forEach(boutons => {
     boutons.addEventListener("click", () => {
         let valeur = boutons.textContent;
