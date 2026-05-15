@@ -16,7 +16,7 @@ export default function App() {
         {/* Jeux */}
         <Route path="/pong" element={<PongIframe />} />
         <Route path="/calc" element={<CalcIframe />} />
-        <Route path="/pfc" element={<PfcIframe />} />
+        <Route path="/pfc" element={<pfcIframe />} />
         <Route path="/snake" element={<SnakeIframe />} />
       </Routes>
     </BrowserRouter>
