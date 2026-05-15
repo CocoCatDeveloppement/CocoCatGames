@@ -2,7 +2,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import HomePage from "./HomePage"; 
 import PongIframe from "./games/PongIframe";
 import CalcIframe from "./games/CalcIframe";
-import PfcIframe from "./games/PfcIframe";
+import pfcIframe from "./games/pfcIframe";
 import SnakeIframe from "./games/SnakeIframe";
 
 
